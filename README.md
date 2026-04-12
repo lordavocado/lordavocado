@@ -1,6 +1,6 @@
 # Hey, I'm Nichlas 👋
 
-Product leader and builder based in Copenhagen. I specialize in taking products from **0 → 1** — blending product discovery, venture building, and generative AI to ship things that matter.
+Product builder based in Copenhagen. I specialize in taking products from **0 → 1** — blending product discovery, venture building, and generative AI to ship things that matter.
 
 Currently a **Senior Product Manager at [Resights](https://www.resights.com/)**, where I lead AI initiatives and own the full product lifecycle from discovery to launch.
 
