@@ -14,6 +14,7 @@ Currently an **AI Product Manager at [Resights](https://www.resights.dk/)**, whe
 
 | Project | Description |
 |---------|-------------|
+| [Agentaccess.dk (https://www.agentaccess.dk/) | Directory of AI agent tools such as MCPs, CLIs, APIs and Skills in Denmark |
 | [Dream Office AI](https://www.dreamoffice.ai/) | Full-stack SaaS generating custom office designs with multiple AI models |
 | [Product Manager Courses](https://www.productmanagercourses.com/) | Largest AI-powered catalog of 300+ PM courses |
 | [AI CRE Tools](https://www.aicretools.com/) | Curated 150+ AI tools for commercial real estate |
