@@ -2,7 +2,7 @@
 
 Product builder based in Copenhagen. I specialize in taking products from **0 → 1** — blending product discovery, venture building, and generative AI to ship things that matter.
 
-Currently an **AI Product Manager at [Resights](https://www.resights.dk/)**, where I lead AI initiatives and own the full product lifecycle from discovery to launch.
+Currently an **AI Product Manager at [Paychex Europe](https://www.paychex.eu/)**, where I lead portfolio level AI product initiatives.
 
 ## What I Do
 
